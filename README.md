@@ -1,12 +1,11 @@
 # Min Ga Lar Par! I'm Bhone Myat Hein 👋
 
-I am a dedicated **Newbie Full-Stack & Mobile Application Developer** with over 1+ years of experience building high-performance web and mobile applications. I specialize in crafting clean UI/UX components and robust backend architectures.
+I am a dedicated **Newbie Mobile Application Developer** with over 1+ years of experience building high-performance web and mobile applications. I specialize in crafting clean UI/UX components and robust backend architectures and specilistic logic.
 
 ---
 
 ### 🚀 What I Do
-* 📱 **Mobile Development:** Cross-platform apps using **Flutter & Dart** (State management with Riverpod/Bloc, Firebase integration, Local DBs).
-* 🌐 **Full-Stack Web Development:** Robust backends using **PHP & Laravel** paired with modern front-end technologies.
+* 📱 **Mobile Development:** Cross-platform apps using **Flutter & Dart** (State management with Riverpod/Bloc/GetX, Firebase integration, Local DBs).
 * 🛠️ **Integrations:** Firebase (Auth, Firestore, Cloud Messaging), VideoSDK, RESTful APIs, and Google Mobile Ads.
 
 ---
@@ -15,10 +14,10 @@ I am a dedicated **Newbie Full-Stack & Mobile Application Developer** with over 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Dart, PHP, JavaScript, HTML5, CSS3, Java, C++ |
-| **Frameworks** | Flutter, Laravel |
+| **Languages** | Dart, C++,  HTML5, CSS3, TypeScript |
+| **Frameworks** | Flutter, React|
 | **Databases** | MySQL, SQLite, Firestore |
-| **Tools & Platforms** | Git, GitHub, Firebase, Postman |
+| **Tools & Platforms** | Git, GitHub, Firebase, Postman , Scalar|
 
 ---
 
@@ -30,5 +29,5 @@ I am a dedicated **Newbie Full-Stack & Mobile Application Developer** with over 
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [Your LinkedIn Link Here]
-* 📧 **Email:** [Your Professional Email Here]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/bhone-myat-hein-840a173b4/]
+* 📧 **Email:** [556bhonemyathein@gmail.com]
