@@ -14,8 +14,8 @@ I am a dedicated **Newbie Mobile Application Developer** with over 1+ years of e
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Dart, C++,  HTML5, CSS3, TypeScript |
-| **Frameworks** | Flutter, React|
+| **Languages** | Dart, C++,  HTML5, CSS3, JavaScript, TypeScript, Vite,  |
+| **Frameworks** | Flutter, Next.js|
 | **Databases** | MySQL, SQLite, Firestore |
 | **Tools & Platforms** | Git, GitHub, Firebase, Postman , Scalar|
 
