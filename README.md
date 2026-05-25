@@ -69,19 +69,19 @@ I am a passionate Mobile & Frontend Developer focused on building clean, scalabl
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=mgbhone556&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+    src="https://github-readme-stats.vercel.app/api?username=556bhonemyathein&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
   />
 
 <img
  height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgbhone556&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=556bhonemyathein&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
 />
 
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mgbhone556&theme=tokyonight&hide_border=true&border_radius=12"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=556bhonemyathein&theme=tokyonight&hide_border=true&border_radius=12"
   />
 </p>
 
@@ -91,7 +91,7 @@ I am a passionate Mobile & Frontend Developer focused on building clean, scalabl
 
 * 💼 LinkedIn: https://www.linkedin.com/in/bhone-myat-hein-840a173b4/
 * 📧 Email: [556bhonemyathein@gmail.com](mailto:556bhonemyathein@gmail.com)
-* 💻 GitHub: https://github.com/mgbhone556
+* 💻 GitHub: https://github.com/556bhonemyathein
 
 ---
 
