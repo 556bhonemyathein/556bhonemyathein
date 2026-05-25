@@ -1,33 +1,98 @@
-# Min Ga Lar Par! I'm Bhone Myat Hein 👋
+# Hi there! I'm Bhone Myat Hein 👋
 
-I am a dedicated **Newbie Mobile Application Developer** with over 1+ years of experience building high-performance web and mobile applications. I specialize in crafting clean UI/UX components and robust backend architectures and specilistic logic.
+## 🚀 Flutter & Frontend Developer
 
----
-
-### 🚀 What I Do
-* 📱 **Mobile Development:** Cross-platform apps using **Flutter & Dart** (State management with Riverpod/Bloc/GetX, Firebase integration, Local DBs).
-* 🛠️ **Integrations:** Firebase (Auth, Firestore, Cloud Messaging), VideoSDK, RESTful APIs, and Google Mobile Ads.
+I am a passionate Mobile & Frontend Developer focused on building clean, scalable, and responsive applications using Flutter, React, and modern development tools. I enjoy creating real-world applications with authentication systems, REST API integration, Firebase services, and modern UI/UX experiences.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 💡 About Me
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Dart, C++,  HTML5, CSS3, JavaScript, TypeScript, Vite,  |
-| **Frameworks** | Flutter, Next.js|
-| **Databases** | MySQL, SQLite, Firestore |
-| **Tools & Platforms** | Git, GitHub, Firebase, Postman , Scalar|
-
----
-
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=556bhonemyathein&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=556bhonemyathein&layout=compact&theme=tokyonight)
+* 📱 Building cross-platform mobile applications using Flutter & Dart
+* 🌐 Developing modern frontend applications with React, TypeScript & Vite
+* 🔐 Experienced with authentication systems (Firebase Auth, Google Sign-In, JWT)
+* 🔥 Working with Firebase ecosystem (Firestore, Storage, Cloud Messaging)
+* 🧠 Familiar with Clean Architecture, MVVM, BLoC, Riverpod & GetX
+* ⚡ Passionate about responsive UI, reusable components, and scalable project structure
 
 ---
 
-### 📫 Connect with Me
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/bhone-myat-hein-840a173b4/]
-* 📧 **Email:** [556bhonemyathein@gmail.com]
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+* Flutter
+* Dart
+* Firebase
+* Riverpod
+* BLoC / Cubit
+* GetX
+* Provider
+
+### 🌐 Frontend Development
+
+* React
+* TypeScript
+* Vite
+* Next.js
+* HTML5
+* CSS3
+* JavaScript
+
+### 🔗 Backend & APIs
+
+* REST API Integration
+* Dio
+* Retrofit
+* Firebase Auth
+* Firestore
+* Cloud Messaging
+
+### 🗄️ Databases
+
+* SQLite
+* Firestore
+* MySQL
+
+### 🧰 Tools & Platforms
+
+* Git
+* GitHub
+* Firebase Console
+* Postman
+* Scalar
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=mgbhone556&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+  />
+
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgbhone556&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mgbhone556&theme=tokyonight&hide_border=true&border_radius=12"
+  />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/bhone-myat-hein-840a173b4/
+* 📧 Email: [556bhonemyathein@gmail.com](mailto:556bhonemyathein@gmail.com)
+* 💻 GitHub: https://github.com/mgbhone556
+
+---
+
+⭐ Always learning, building, and improving.
